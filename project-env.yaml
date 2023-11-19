@@ -6,4 +6,5 @@ dependencies:
   - ipykernel
   - python=3.11
   - scikit-learn=1.2.1
+  - jupyterlab
 prefix: C:\Users\xiy19\miniconda3\envs\dstoolbox
